@@ -1,2 +1,2 @@
 # FirstGitWork
-To study and practice git for
+To study and practice git for linux
